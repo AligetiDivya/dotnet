@@ -1,0 +1,11 @@
+C:\Divya_learnings\VBInterop\bin\Debug\net8.0\VBInterop.deps.json
+C:\Divya_learnings\VBInterop\bin\Debug\net8.0\VBInterop.dll
+C:\Divya_learnings\VBInterop\bin\Debug\net8.0\VBInterop.pdb
+C:\Divya_learnings\VBInterop\obj\Debug\net8.0\VBInterop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Divya_learnings\VBInterop\obj\Debug\net8.0\VBInterop.AssemblyInfoInputs.cache
+C:\Divya_learnings\VBInterop\obj\Debug\net8.0\VBInterop.AssemblyInfo.vb
+C:\Divya_learnings\VBInterop\obj\Debug\net8.0\VBInterop.vbproj.CoreCompileInputs.cache
+C:\Divya_learnings\VBInterop\obj\Debug\net8.0\VBInterop.dll
+C:\Divya_learnings\VBInterop\obj\Debug\net8.0\refint\VBInterop.dll
+C:\Divya_learnings\VBInterop\obj\Debug\net8.0\VBInterop.pdb
+C:\Divya_learnings\VBInterop\obj\Debug\net8.0\ref\VBInterop.dll
